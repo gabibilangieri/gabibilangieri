@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @gabibilangieri
+- 👋 Hi there, I’m @gabibilangieri
 - 👀 I’m interested in coding, tech, music and storytelling
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: gabibilangieri@gmail.com
 - 😄 Pronouns: she/her
+- 😂Fun fact: I'm an English Teacher too
 
 <!---
 gabibilangieri/gabibilangieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

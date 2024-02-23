@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabibilangieri
-- 👀 I’m interested in coding, tech music and storytelling
+- 👀 I’m interested in coding, tech, music and storytelling
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: gabibilangieri@gmail.com
